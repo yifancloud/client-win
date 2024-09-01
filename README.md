@@ -1,5 +1,5 @@
 # client-win
-vpn client for windows
+vpn winddows客户端
 
 易帆云自研windows客户端
 版本1.29
